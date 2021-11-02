@@ -39,6 +39,7 @@ footer {
 img.zweefLinks {
     float: left;
     margin-right: 15px;
+    width: 100px;
 }
 
 .smalltext {
@@ -46,7 +47,7 @@ img.zweefLinks {
 }
 
 a {
-    color: skyblue;
+    color: rgb(240, 0, 0);
     text-decoration: none;
 }
 
@@ -81,7 +82,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: rgb(135, 235, 168);
+    background-color: rgb(255, 0, 0);
 }
 
 
