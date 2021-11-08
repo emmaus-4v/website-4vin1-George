@@ -63,6 +63,7 @@ nav ul {
     padding: 0;
     background-color: #dddddd;
     overflow: hidden;
+    display: flex;
 }
 
 nav ul li {
