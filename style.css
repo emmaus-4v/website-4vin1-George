@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgb(29, 29, 29);  
     
-    color: #303030;
+    color: #ffffff;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: rgb(255, 217, 0);
     text-align: center;
 }
 
@@ -55,7 +55,7 @@ width:100px;
 }
 
 a {
-    color: rgb(240, 0, 0);
+    color: rgb(255, 217, 0);
     text-decoration: none;
 }
 
@@ -69,7 +69,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #424242;
     overflow: hidden;
     display: flex;
 }
@@ -87,11 +87,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #f0f0f0;
 }
 
 nav li a.active {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 217, 0);
 }
 
 
