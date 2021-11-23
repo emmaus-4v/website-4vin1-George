@@ -46,12 +46,18 @@ img.zweefrechts {
 float:right;
 margin-left: 15px;
 width:100px;
+}
+
+img.vvvlogo {
+float:right;
+margin-left:10px;
+width:200px;
 
 
 }
 
 .smalltext {
-    font-size: 0.7em;
+    font-size: 1.0em;
 }
 
 a {
