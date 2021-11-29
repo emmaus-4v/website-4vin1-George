@@ -36,24 +36,46 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
+img.TEAMVVV {
     float: left;
     margin-right: 15px;
-    width: 100px;
+    width: 700px;
 }
+
+img.zweefLinks {
+    float:right;
+    margin-left: 15px;
+    width:150px;
+    }
 
 img.zweefrechts {
 float:right;
 margin-left: 15px;
-width:100px;
+width:150px;
 }
 
 img.vvvlogo {
 float:right;
 margin-left:10px;
 width:200px;
+}
 
+img.esportsfoto {
+float:right;
+margin-left:10px;
+width:250px;
+}
 
+img.Squishy { 
+      float:left; 
+        margin-right:10px;  
+         width:250px;
+}
+
+img.jstn {
+    float:right;
+    margin-left:10px;
+    width:250px;
 }
 
 .smalltext {
