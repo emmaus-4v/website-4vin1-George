@@ -6,7 +6,7 @@ html, body {
     background-color: rgb(0, 0, 0);  
     background-image: url("afbeeldingen/venlobackground.jpeg");
     color: #ffffff;
-    font: Verdana, Arial, Sans-Serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
@@ -136,7 +136,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #f0f0f0;
+    background-color: #dbc70c;
 }
 
 nav li a.active {
